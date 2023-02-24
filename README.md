@@ -1,4 +1,4 @@
-The current folder includes R code for reproducing all of the tables and figures in the article “Quantifying the sample size requirements to test subgroup average treatment effects in pragmatic cluster randomized trials” by Wang et al.
+The current folder includes R code for reproducing all of the tables and figures in the article “Sample size requirements to test subgroup average treatment effects in cluster randomized trials” by Wang et al.
 
 For questions or comments about the code please contact Xueqi Wang at xueqi.wang@yale.edu.
 
